@@ -62,7 +62,7 @@ function countEvenNumbers(arrayOfNumbers){
     }
       
   }
-  return count'
+  return count;
 }
 // console.log(countEvenNumbers([
 //         17,
